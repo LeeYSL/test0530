@@ -1,0 +1,3 @@
+typeMismatch.hiredate=입사일은 YYYY-MM-DD 형식으로 입력하세요 
+error.input= 입력 정보에 오류가 있습니다.
+error.registration=사원 등록시 오류가 있습니다.
